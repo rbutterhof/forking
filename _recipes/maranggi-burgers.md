@@ -1,13 +1,13 @@
+---
 layout: recipe
 title:  "Maranggi Burgers"
 image: maranggiburgers.jpg
-
 tags:
-- indonesian, dinner, fusion
-
+- indonesian
+- dinner
+- fusion
 
 burger ingredients:
-
 - 2 pounds ground beef (80% lean)
 - 2 tablespoons sweet soy sauce
 - 1 tablespoon dark brown sugar
